@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="24 24 24 24" width="24" height="24" xmlns:bx="https://boxy-svg.com">
+  <path d="M 27.831 33.28 L 44.18 33.28 L 44.18 47.067 L 41.624 47.067 C 41.644 47.04 41.664 47.013 41.684 46.985 C 41.966 46.596 42.23 46.203 42.442 45.686 C 42.691 45.08 42.931 44.172 43.02 43.521 C 43.096 42.964 43.069 42.497 43.02 42.005 C 42.971 41.523 42.885 41.07 42.731 40.597 C 42.568 40.096 42.309 39.533 42.045 39.082 C 41.799 38.662 41.549 38.32 41.215 37.963 C 40.855 37.577 40.377 37.165 39.934 36.862 C 39.515 36.576 39.103 36.361 38.635 36.176 C 38.144 35.984 37.591 35.822 37.047 35.743 C 36.496 35.664 35.957 35.633 35.351 35.707 C 34.669 35.791 33.841 35.972 33.149 36.285 C 32.444 36.604 31.681 37.163 31.164 37.62 C 30.732 38.003 30.441 38.405 30.172 38.793 C 29.929 39.144 29.768 39.398 29.594 39.84 C 29.371 40.408 29.106 41.354 29.017 42.005 C 28.941 42.562 28.97 43.044 29.017 43.521 C 29.06 43.967 29.139 44.354 29.27 44.784 C 29.409 45.243 29.592 45.734 29.847 46.191 C 30.007 46.479 30.21 46.784 30.423 47.067 L 27.831 47.067 L 27.831 33.28 Z" style="stroke: rgb(0, 0, 0); stroke-width: 0px;"/>
+  <path d="M 36.006 26.567 L 44.559 34.507 L 27.453 34.507 L 36.006 26.567 Z" bx:shape="triangle 27.453 26.567 17.106 7.94 0.5 0 1@5d8012ed" style="stroke: rgb(0, 0, 0); stroke-width: 2px;"/>
+  <rect x="33.07" y="39.463" width="1.073" height="1.263" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round;" rx="0.291" ry="0.291"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="33.983" cy="39.474" rx="0.668" ry="0.445"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="36.006" cy="41.244" rx="1.985" ry="2.075"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="36.006" cy="44.438" rx="3.609" ry="2.779"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);" cx="36.006" cy="40.937" rx="0.417" ry="0.198"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);" cx="35.65" cy="41.442" rx="0.385" ry="0.347"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 255, 255);" cx="36.413" cy="41.441" rx="0.385" ry="0.347"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0);" cx="36.412" cy="41.329" rx="0.385" ry="0.347"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0);" cx="35.641" cy="41.335" rx="0.385" ry="0.347"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 255, 255);" cx="35.221" cy="40.191" rx="0.385" ry="0.347"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 255, 255);" cx="36.721" cy="40.164" rx="0.385" ry="0.347"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0);" cx="35.214" cy="40.066" rx="0.385" ry="0.26"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0);" cx="36.734" cy="40.051" rx="0.385" ry="0.26"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1;" cx="37.844" cy="39.377" rx="0.668" ry="0.445"/>
+  <rect x="37.729" y="39.447" width="1.073" height="1.263" style="stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 1;" rx="0.291" ry="0.291"/>
+  <rect x="33.931" y="32.25" width="4.15" height="1.14" style="stroke-width: 0px; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);"/>
+  <ellipse style="stroke-width: 0px; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="33.411" cy="32.342" rx="0.83" ry="0.785"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="33.406" cy="33.15" rx="0.83" ry="0.785"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="38.364" cy="32.33" rx="0.83" ry="0.785"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="38.364" cy="33.26" rx="0.83" ry="0.785"/>
+  <rect x="40.208" y="27.139" width="1.454" height="3.49" style="stroke: rgb(0, 0, 0);"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="34.094" cy="46.363" rx="0.632" ry="0.584"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="34.587" cy="46.497" rx="0.561" ry="0.556"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="35.18" cy="46.382" rx="0.632" ry="0.584"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="34.61" cy="45.918" rx="0.803" ry="0.584"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="36.601" cy="46.293" rx="0.632" ry="0.584"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="37.209" cy="46.404" rx="0.561" ry="0.556"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="37.774" cy="46.254" rx="0.632" ry="0.584"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="37.159" cy="45.856" rx="0.803" ry="0.584"/>
+</svg>

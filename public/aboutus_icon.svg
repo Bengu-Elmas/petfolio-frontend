@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="24 24 24 24" width="24px" height="24px" xmlns:bx="https://boxy-svg.com">
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0.25;" cx="36.117" cy="42.102" rx="11.294" ry="3.801"/>
+  <rect x="31.944" y="33.217" width="8.112" height="10.44" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-width: 0.08;" rx="3.238" ry="3.238"/>
+  <rect x="38.755" y="34.526" width="8.112" height="9.058" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-width: 0.08;" rx="3.238" ry="3.238"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1;" cx="42.766" cy="32.444" rx="2.364" ry="2.328"/>
+  <rect x="25.823" y="34.611" width="8.112" height="9.058" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-width: 0.08;" rx="3.238" ry="3.238"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="29.661" cy="32.872" rx="2.364" ry="2.328"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1;" cx="35.881" cy="30.917" rx="2.364" ry="2.328"/>
+  <path d="M 29.825 36.011 L 30.259 38.032 L 32.28 38.466 L 30.259 38.9 L 29.825 40.921 L 29.391 38.9 L 27.37 38.466 L 29.391 38.032 Z" bx:shape="star 29.825 38.466 2.455 2.455 0.25 4 1@30ad2997" style="stroke: rgb(0, 0, 0); stroke-linejoin: round; stroke-linecap: round; stroke-width: 0px; fill: rgb(255, 255, 255);"/>
+  <path d="M 36.39 35.81 L 36.824 37.831 L 38.845 38.265 L 36.824 38.699 L 36.39 40.72 L 35.956 38.699 L 33.935 38.265 L 35.956 37.831 Z" bx:shape="star 36.39 38.265 2.455 2.455 0.25 4 1@d6a0b5d1" style="stroke: rgb(0, 0, 0); stroke-linejoin: round; stroke-linecap: round; stroke-width: 0; fill: rgb(255, 255, 255);"/>
+  <path d="M 42.793 35.738 L 43.227 37.759 L 45.248 38.193 L 43.227 38.627 L 42.793 40.648 L 42.359 38.627 L 40.338 38.193 L 42.359 37.759 Z" bx:shape="star 42.793 38.193 2.455 2.455 0.25 4 1@61a0cca1" style="stroke: rgb(0, 0, 0); stroke-linejoin: round; stroke-linecap: round; stroke-width: 0; fill: rgb(255, 255, 255);"/>
+</svg>
