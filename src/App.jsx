@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Home from "./pages/Home";
 import Privacy from "./pages/Privacy";
 import Terms from "./pages/Terms";
+import About from "./pages/About";
 
 function Page({ title }) {
   return (
@@ -22,7 +23,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Navigate to="/home" replace />} />
         <Route path="/home" element={<Home />} />
-        <Route path="/about" element={<Page title="About Us" />} />
+        <Route path="/about" element={<About />} />
         <Route path="/articles" element={<Page title="Articles" />} />
         <Route path="/login" element={<Page title="Log In" />} />
         <Route path="/signup" element={<Page title="Sign Up" />} />

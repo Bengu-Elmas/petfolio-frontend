@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="24 24 24 24" width="24" height="24">
+  <ellipse style="stroke-width: 0px; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="31.163" cy="32.299" rx="5.49" ry="4.211" transform="matrix(0.90994100 -0.41473700 -0.02699700 1.11127700 5.78912172 16.55853731)"/>
+  <ellipse style="stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="31.163" cy="32.299" rx="5.49" ry="4.211" transform="matrix(-0.90994100 -0.41473700 0.02699700 1.11127700 65.63347228 16.55493931)"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);" cx="27.703" cy="33.525" rx="3.252" ry="3.132" transform="matrix(0.99723100 0.07436100 0.07355000 1.00826100 -2.62766217 -0.81617030)"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 255, 255);" cx="27.703" cy="33.525" rx="3.252" ry="3.132" transform="matrix(-0.99723100 0.07436100 -0.07355000 1.00826100 74.34081097 -0.64577034)"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 255, 255);" cx="27.703" cy="33.525" rx="3.469" ry="2.936" transform="matrix(-0.40596600 0.91388800 0.75001400 0.77487100 19.19512144 -20.61476693)"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 255, 255);" cx="27.703" cy="33.525" rx="3.481" ry="2.988" transform="matrix(-0.48611700 0.87389400 0.67766500 0.83887700 29.25458998 -21.67330637)"/>
+</svg>
