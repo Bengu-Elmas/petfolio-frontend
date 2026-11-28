@@ -18,8 +18,7 @@ const headingAnimation = {
   focusOnHover: false,
 };
 
-// Çizimini public klasörüne eklediğinde buraya dosya yolunu yaz.
-const heroImage = null;
+const heroImage = "/petfolio_home_picture.png";
 
 export default function Home() {
   const [showSecondLine, setShowSecondLine] = useState(false);
@@ -72,8 +71,8 @@ export default function Home() {
             <div className="flex aspect-[4/3] items-center justify-center rounded-3xl bg-teal-50 p-6">
               <img
                 src={heroImage}
-                alt=""
-                className="h-full w-full object-contain"
+                alt="A calico cat listening to a Rottweiler’s heartbeat with a stethoscope"
+                className="h-auto w-full object-contain"
               />
             </div>
           ) : (
